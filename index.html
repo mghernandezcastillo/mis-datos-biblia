@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mis Datos - Biblia</title>
+</head>
+<body>
+  <h1>Archivos JSON disponibles</h1>
+  <ul id="fileList"></ul>
+
+  <script>
+    const basePath = "https://raw.githubusercontent.com/mghernandezcastillo/mis-datos-biblia/main/RVR60/";
+    const libros = [
+      "Genesis", "Exodo", "Levitico", "Numeros", "Deuteronomio", "Josue", "Jueces", "Rut",
+      "1_Samuel", "2_Samuel", "1_Reyes", "2_Reyes", "1_Cronicas", "2_Cronicas", "Esdras",
+      "Nehemias", "Ester", "Job", "Salmos", "Proverbios", "Eclesiastes", "Cantares", "Isaias",
+      "Jeremias", "Lamentaciones", "Ezequiel", "Daniel", "Oseas", "Joel", "Amos", "Abdias",
+      "Jonas", "Miqueas", "Nahum", "Habacuc", "Sofonias", "Hageo", "Zacarias", "Malaquias",
+      "Mateo", "Marcos", "Lucas", "Juan", "Hechos", "Romanos", "1_Corintios", "2_Corintios",
+      "Galatas", "Efesios", "Filipenses", "Colosenses", "1_Tesalonicenses", "2_Tesalonicenses",
+      "1_Timoteo", "2_Timoteo", "Tito", "Filemon", "Hebreos", "Santiago", "1_Pedro", "2_Pedro",
+      "1_Juan", "2_Juan", "3_Juan", "Judas", "Apocalipsis"
+    ];
+
+    const fileList = document.getElementById("fileList");
+
+    libros.forEach(libro => {
+      const li = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = `${basePath}${libro}/${libro}.json`;
+      link.textContent = libro;
+      link.target = "_blank";
+      li.appendChild(link);
+      fileList.appendChild(li);
+    });
+  </script>
+</body>
+</html>
