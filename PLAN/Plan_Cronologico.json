@@ -1,1362 +1,366 @@
 [
-  {
-    "día": 1,
-    "lectura": "Génesis 1–2"
-  },
-  {
-    "día": 2,
-    "lectura": "Génesis 3–5"
-  },
-  {
-    "día": 3,
-    "lectura": "Génesis 6–9"
-  },
-  {
-    "día": 4,
-    "lectura": "Job 1–5"
-  },
-  {
-    "día": 5,
-    "lectura": "Job 6–9"
-  },
-  {
-    "día": 6,
-    "lectura": "Job 10–13"
-  },
-  {
-    "día": 7,
-    "lectura": "Job 14–16"
-  },
-  {
-    "día": 8,
-    "lectura": "Job 17–20"
-  },
-  {
-    "día": 9,
-    "lectura": "Job 21–23"
-  },
-  {
-    "día": 10,
-    "lectura": "Job 24–28"
-  },
-  {
-    "día": 11,
-    "lectura": "Job 29–31"
-  },
-  {
-    "día": 12,
-    "lectura": "Job 32–34"
-  },
-  {
-    "día": 13,
-    "lectura": "Job 35–37"
-  },
-  {
-    "día": 14,
-    "lectura": "Job 38–39"
-  },
-  {
-    "día": 15,
-    "lectura": "Job 40–42"
-  },
-  {
-    "día": 16,
-    "lectura": "Génesis 10–11"
-  },
-  {
-    "día": 17,
-    "lectura": "Génesis 12–15"
-  },
-  {
-    "día": 18,
-    "lectura": "Génesis 16–18"
-  },
-  {
-    "día": 19,
-    "lectura": "Génesis 19–21"
-  },
-  {
-    "día": 20,
-    "lectura": "Génesis 22–24"
-  },
-  {
-    "día": 21,
-    "lectura": "Génesis 25–26"
-  },
-  {
-    "día": 22,
-    "lectura": "Génesis 27–29"
-  },
-  {
-    "día": 23,
-    "lectura": "Génesis 30–31"
-  },
-  {
-    "día": 24,
-    "lectura": "Génesis 32–34"
-  },
-  {
-    "día": 25,
-    "lectura": "Génesis 35–37"
-  },
-  {
-    "día": 26,
-    "lectura": "Génesis 38–40"
-  },
-  {
-    "día": 27,
-    "lectura": "Génesis 41–42"
-  },
-  {
-    "día": 28,
-    "lectura": "Génesis 43–45"
-  },
-  {
-    "día": 29,
-    "lectura": "Génesis 46–47"
-  },
-  {
-    "día": 30,
-    "lectura": "Génesis 48–50"
-  },
-  {
-    "día": 31,
-    "lectura": "Día 31: Lectura correspondiente"
-  },
-  {
-    "día": 32,
-    "lectura": "Día 32: Lectura correspondiente"
-  },
-  {
-    "día": 33,
-    "lectura": "Día 33: Lectura correspondiente"
-  },
-  {
-    "día": 34,
-    "lectura": "Día 34: Lectura correspondiente"
-  },
-  {
-    "día": 35,
-    "lectura": "Día 35: Lectura correspondiente"
-  },
-  {
-    "día": 36,
-    "lectura": "Día 36: Lectura correspondiente"
-  },
-  {
-    "día": 37,
-    "lectura": "Día 37: Lectura correspondiente"
-  },
-  {
-    "día": 38,
-    "lectura": "Día 38: Lectura correspondiente"
-  },
-  {
-    "día": 39,
-    "lectura": "Día 39: Lectura correspondiente"
-  },
-  {
-    "día": 40,
-    "lectura": "Día 40: Lectura correspondiente"
-  },
-  {
-    "día": 41,
-    "lectura": "Día 41: Lectura correspondiente"
-  },
-  {
-    "día": 42,
-    "lectura": "Día 42: Lectura correspondiente"
-  },
-  {
-    "día": 43,
-    "lectura": "Día 43: Lectura correspondiente"
-  },
-  {
-    "día": 44,
-    "lectura": "Día 44: Lectura correspondiente"
-  },
-  {
-    "día": 45,
-    "lectura": "Día 45: Lectura correspondiente"
-  },
-  {
-    "día": 46,
-    "lectura": "Día 46: Lectura correspondiente"
-  },
-  {
-    "día": 47,
-    "lectura": "Día 47: Lectura correspondiente"
-  },
-  {
-    "día": 48,
-    "lectura": "Día 48: Lectura correspondiente"
-  },
-  {
-    "día": 49,
-    "lectura": "Día 49: Lectura correspondiente"
-  },
-  {
-    "día": 50,
-    "lectura": "Día 50: Lectura correspondiente"
-  },
-  {
-    "día": 51,
-    "lectura": "Día 51: Lectura correspondiente"
-  },
-  {
-    "día": 52,
-    "lectura": "Día 52: Lectura correspondiente"
-  },
-  {
-    "día": 53,
-    "lectura": "Día 53: Lectura correspondiente"
-  },
-  {
-    "día": 54,
-    "lectura": "Día 54: Lectura correspondiente"
-  },
-  {
-    "día": 55,
-    "lectura": "Día 55: Lectura correspondiente"
-  },
-  {
-    "día": 56,
-    "lectura": "Día 56: Lectura correspondiente"
-  },
-  {
-    "día": 57,
-    "lectura": "Día 57: Lectura correspondiente"
-  },
-  {
-    "día": 58,
-    "lectura": "Día 58: Lectura correspondiente"
-  },
-  {
-    "día": 59,
-    "lectura": "Día 59: Lectura correspondiente"
-  },
-  {
-    "día": 60,
-    "lectura": "Día 60: Lectura correspondiente"
-  },
-  {
-    "día": 61,
-    "lectura": "Día 61: Lectura correspondiente"
-  },
-  {
-    "día": 62,
-    "lectura": "Día 62: Lectura correspondiente"
-  },
-  {
-    "día": 63,
-    "lectura": "Día 63: Lectura correspondiente"
-  },
-  {
-    "día": 64,
-    "lectura": "Día 64: Lectura correspondiente"
-  },
-  {
-    "día": 65,
-    "lectura": "Día 65: Lectura correspondiente"
-  },
-  {
-    "día": 66,
-    "lectura": "Día 66: Lectura correspondiente"
-  },
-  {
-    "día": 67,
-    "lectura": "Día 67: Lectura correspondiente"
-  },
-  {
-    "día": 68,
-    "lectura": "Día 68: Lectura correspondiente"
-  },
-  {
-    "día": 69,
-    "lectura": "Día 69: Lectura correspondiente"
-  },
-  {
-    "día": 70,
-    "lectura": "Día 70: Lectura correspondiente"
-  },
-  {
-    "día": 71,
-    "lectura": "Día 71: Lectura correspondiente"
-  },
-  {
-    "día": 72,
-    "lectura": "Día 72: Lectura correspondiente"
-  },
-  {
-    "día": 73,
-    "lectura": "Día 73: Lectura correspondiente"
-  },
-  {
-    "día": 74,
-    "lectura": "Día 74: Lectura correspondiente"
-  },
-  {
-    "día": 75,
-    "lectura": "Día 75: Lectura correspondiente"
-  },
-  {
-    "día": 76,
-    "lectura": "Día 76: Lectura correspondiente"
-  },
-  {
-    "día": 77,
-    "lectura": "Día 77: Lectura correspondiente"
-  },
-  {
-    "día": 78,
-    "lectura": "Día 78: Lectura correspondiente"
-  },
-  {
-    "día": 79,
-    "lectura": "Día 79: Lectura correspondiente"
-  },
-  {
-    "día": 80,
-    "lectura": "Día 80: Lectura correspondiente"
-  },
-  {
-    "día": 81,
-    "lectura": "Día 81: Lectura correspondiente"
-  },
-  {
-    "día": 82,
-    "lectura": "Día 82: Lectura correspondiente"
-  },
-  {
-    "día": 83,
-    "lectura": "Día 83: Lectura correspondiente"
-  },
-  {
-    "día": 84,
-    "lectura": "Día 84: Lectura correspondiente"
-  },
-  {
-    "día": 85,
-    "lectura": "Día 85: Lectura correspondiente"
-  },
-  {
-    "día": 86,
-    "lectura": "Día 86: Lectura correspondiente"
-  },
-  {
-    "día": 87,
-    "lectura": "Día 87: Lectura correspondiente"
-  },
-  {
-    "día": 88,
-    "lectura": "Día 88: Lectura correspondiente"
-  },
-  {
-    "día": 89,
-    "lectura": "Día 89: Lectura correspondiente"
-  },
-  {
-    "día": 90,
-    "lectura": "Día 90: Lectura correspondiente"
-  },
-  {
-    "día": 91,
-    "lectura": "Día 91: Lectura correspondiente"
-  },
-  {
-    "día": 92,
-    "lectura": "Día 92: Lectura correspondiente"
-  },
-  {
-    "día": 93,
-    "lectura": "Día 93: Lectura correspondiente"
-  },
-  {
-    "día": 94,
-    "lectura": "Día 94: Lectura correspondiente"
-  },
-  {
-    "día": 95,
-    "lectura": "Día 95: Lectura correspondiente"
-  },
-  {
-    "día": 96,
-    "lectura": "Día 96: Lectura correspondiente"
-  },
-  {
-    "día": 97,
-    "lectura": "Día 97: Lectura correspondiente"
-  },
-  {
-    "día": 98,
-    "lectura": "Día 98: Lectura correspondiente"
-  },
-  {
-    "día": 99,
-    "lectura": "Día 99: Lectura correspondiente"
-  },
-  {
-    "día": 100,
-    "lectura": "Día 100: Lectura correspondiente"
-  },
-  {
-    "día": 101,
-    "lectura": "Día 101: Lectura correspondiente"
-  },
-  {
-    "día": 102,
-    "lectura": "Día 102: Lectura correspondiente"
-  },
-  {
-    "día": 103,
-    "lectura": "Día 103: Lectura correspondiente"
-  },
-  {
-    "día": 104,
-    "lectura": "Día 104: Lectura correspondiente"
-  },
-  {
-    "día": 105,
-    "lectura": "Día 105: Lectura correspondiente"
-  },
-  {
-    "día": 106,
-    "lectura": "Día 106: Lectura correspondiente"
-  },
-  {
-    "día": 107,
-    "lectura": "Día 107: Lectura correspondiente"
-  },
-  {
-    "día": 108,
-    "lectura": "Día 108: Lectura correspondiente"
-  },
-  {
-    "día": 109,
-    "lectura": "Día 109: Lectura correspondiente"
-  },
-  {
-    "día": 110,
-    "lectura": "Día 110: Lectura correspondiente"
-  },
-  {
-    "día": 111,
-    "lectura": "Día 111: Lectura correspondiente"
-  },
-  {
-    "día": 112,
-    "lectura": "Día 112: Lectura correspondiente"
-  },
-  {
-    "día": 113,
-    "lectura": "Día 113: Lectura correspondiente"
-  },
+  { "día": 1, "lectura": "Génesis 1–2" },
+  { "día": 2, "lectura": "Génesis 3–5" },
+  { "día": 3, "lectura": "Génesis 6–9" },
+  { "día": 4, "lectura": "Job 1–5" },
+  { "día": 5, "lectura": "Job 6–9" },
+  { "día": 6, "lectura": "Job 10–13" },
+  { "día": 7, "lectura": "Job 14–16" },
+  { "día": 8, "lectura": "Job 17–20" },
+  { "día": 9, "lectura": "Job 21–23" },
+  { "día": 10, "lectura": "Job 24–28" },
+  { "día": 11, "lectura": "Job 29–31" },
+  { "día": 12, "lectura": "Job 32–34" },
+  { "día": 13, "lectura": "Job 35–37" },
+  { "día": 14, "lectura": "Job 38–39" },
+  { "día": 15, "lectura": "Job 40–42" },
+  { "día": 16, "lectura": "Génesis 10–11" },
+  { "día": 17, "lectura": "Génesis 12–15" },
+  { "día": 18, "lectura": "Génesis 16–18" },
+  { "día": 19, "lectura": "Génesis 19–21" },
+  { "día": 20, "lectura": "Génesis 22–24" },
+  { "día": 21, "lectura": "Génesis 25–26" },
+  { "día": 22, "lectura": "Génesis 27–29" },
+  { "día": 23, "lectura": "Génesis 30–31" },
+  { "día": 24, "lectura": "Génesis 32–34" },
+  { "día": 25, "lectura": "Génesis 35–37" },
+  { "día": 26, "lectura": "Génesis 38–40" },
+  { "día": 27, "lectura": "Génesis 41–42" },
+  { "día": 28, "lectura": "Génesis 43–45" },
+  { "día": 29, "lectura": "Génesis 46–47" },
+  { "día": 30, "lectura": "Génesis 48–50" },
+  { "día": 31, "lectura": "Éxodo 1–3" },
+  { "día": 32, "lectura": "Éxodo 4–6" },
+  { "día": 33, "lectura": "Éxodo 7–9" },
+  { "día": 34, "lectura": "Éxodo 10–12" },
+  { "día": 35, "lectura": "Éxodo 13–15" },
+  { "día": 36, "lectura": "Éxodo 16–18" },
+  { "día": 37, "lectura": "Éxodo 19–21" },
+  { "día": 38, "lectura": "Éxodo 22–24" },
+  { "día": 39, "lectura": "Éxodo 25–27" },
+  { "día": 40, "lectura": "Éxodo 28–29" },
+  { "día": 41, "lectura": "Éxodo 30–32" },
+  { "día": 42, "lectura": "Éxodo 33–35" },
+  { "día": 43, "lectura": "Éxodo 36–38" },
+  { "día": 44, "lectura": "Éxodo 39–40" },
+  { "día": 45, "lectura": "Levítico 1–4" },
+  { "día": 46, "lectura": "Levítico 5–7" },
+  { "día": 47, "lectura": "Levítico 8–10" },
+  { "día": 48, "lectura": "Levítico 11–13" },
+  { "día": 49, "lectura": "Levítico 14–15" },
+  { "día": 50, "lectura": "Levítico 16–18" },
+  { "día": 51, "lectura": "Levítico 19–21" },
+  { "día": 52, "lectura": "Levítico 22–23" },
+  { "día": 53, "lectura": "Levítico 24–25" },
+  { "día": 54, "lectura": "Levítico 26–27" },
+  { "día": 55, "lectura": "Números 1–2" },
+  { "día": 56, "lectura": "Números 3–4" },
+  { "día": 57, "lectura": "Números 5–6" },
+  { "día": 58, "lectura": "Números 7" },
+  { "día": 59, "lectura": "Números 8–10" },
+  { "día": 60, "lectura": "Números 11–13" },
+  { "día": 61, "lectura": "Números 14–15, Salmo 90" },
+  { "día": 62, "lectura": "Números 16–17" },
+  { "día": 63, "lectura": "Números 18–20" },
+  { "día": 64, "lectura": "Números 21–22" },
+  { "día": 65, "lectura": "Números 23–25" },
+  { "día": 66, "lectura": "Números 26–27" },
+  { "día": 67, "lectura": "Números 28–30" },
+  { "día": 68, "lectura": "Números 31–32" },
+  { "día": 69, "lectura": "Números 33–34" },
+  { "día": 70, "lectura": "Números 35–36, Deuteronomio 1" },
+  { "día": 71, "lectura": "Deuteronomio 2–3" },
+  { "día": 72, "lectura": "Deuteronomio 4–5" },
+  { "día": 73, "lectura": "Deuteronomio 6–8" },
+  { "día": 74, "lectura": "Deuteronomio 9–11" },
+  { "día": 75, "lectura": "Deuteronomio 12–14" },
+  { "día": 76, "lectura": "Deuteronomio 15–17" },
+  { "día": 77, "lectura": "Deuteronomio 18–20" },
+  { "día": 78, "lectura": "Deuteronomio 21–23" },
+  { "día": 79, "lectura": "Deuteronomio 24–27" },
+  { "día": 80, "lectura": "Deuteronomio 28–29" },
+  { "día": 81, "lectura": "Deuteronomio 30–31" },
+  { "día": 82, "lectura": "Deuteronomio 32–34, Salmo 91" },
+  { "día": 83, "lectura": "Josué 1–4" },
+  { "día": 84, "lectura": "Josué 5–8" },
+  { "día": 85, "lectura": "Josué 9–11" },
+  { "día": 86, "lectura": "Josué 12–15" },
+  { "día": 87, "lectura": "Josué 16–18" },
+  { "día": 88, "lectura": "Josué 19–21" },
+  { "día": 89, "lectura": "Josué 22–24" },
+  { "día": 90, "lectura": "Jueces 1–2" },
+  { "día": 91, "lectura": "Jueces 3–5" },
+  { "día": 92, "lectura": "Jueces 6–7" },
+  { "día": 93, "lectura": "Jueces 8–9" },
+  { "día": 94, "lectura": "Jueces 10–12" },
+  { "día": 95, "lectura": "Jueces 13–15" },
+  { "día": 96, "lectura": "Jueces 16–18" },
+  { "día": 97, "lectura": "Jueces 19–21" },
+  { "día": 98, "lectura": "Rut 1–4" },
+  { "día": 99, "lectura": "1 Samuel 1–3" },
+  { "día": 100, "lectura": "1 Samuel 4–8" },
+  { "día": 101, "lectura": "1 Samuel 9–12" },
+  { "día": 102, "lectura": "1 Samuel 13–14" },
+  { "día": 103, "lectura": "1 Samuel 15–17" },
+  { "día": 104, "lectura": "1 Samuel 18–20, Salmo 11, Salmo 59" },
+  { "día": 105, "lectura": "1 Samuel 21–24, Salmos 7, 27, 31, 34, 52" },
+  { "día": 106, "lectura": "1 Samuel 25–27, Salmos 17, 35, 54, 63" },
+  { "día": 107, "lectura": "1 Samuel 28–31, Salmos 18, 121" },
+  { "día": 108, "lectura": "2 Samuel 1–4" },
+  { "día": 109, "lectura": "2 Samuel 5, 1 Crónicas 11–12, Salmos 133, 19, 20" },
+  { "día": 110, "lectura": "2 Samuel 6–7, 1 Crónicas 13–17" },
+  { "día": 111, "lectura": "Salmos 1–2, 15, 22–24, 47, 68" },
+  { "día": 112, "lectura": "2 Samuel 8–9, 1 Crónicas 18" },
+  { "día": 113, "lectura": "2 Samuel 10, 1 Crónicas 19, Salmo 60" },
   {
     "día": 114,
-    "lectura": "Día 114: Lectura correspondiente"
-  },
-  {
-    "día": 115,
-    "lectura": "Día 115: Lectura correspondiente"
-  },
-  {
-    "día": 116,
-    "lectura": "Día 116: Lectura correspondiente"
-  },
-  {
-    "día": 117,
-    "lectura": "Día 117: Lectura correspondiente"
-  },
-  {
-    "día": 118,
-    "lectura": "Día 118: Lectura correspondiente"
-  },
-  {
-    "día": 119,
-    "lectura": "Día 119: Lectura correspondiente"
-  },
-  {
-    "día": 120,
-    "lectura": "Día 120: Lectura correspondiente"
-  },
-  {
-    "día": 121,
-    "lectura": "Día 121: Lectura correspondiente"
-  },
-  {
-    "día": 122,
-    "lectura": "Día 122: Lectura correspondiente"
-  },
-  {
-    "día": 123,
-    "lectura": "Día 123: Lectura correspondiente"
-  },
-  {
-    "día": 124,
-    "lectura": "Día 124: Lectura correspondiente"
-  },
-  {
-    "día": 125,
-    "lectura": "Día 125: Lectura correspondiente"
-  },
-  {
-    "día": 126,
-    "lectura": "Día 126: Lectura correspondiente"
-  },
-  {
-    "día": 127,
-    "lectura": "Día 127: Lectura correspondiente"
-  },
-  {
-    "día": 128,
-    "lectura": "Día 128: Lectura correspondiente"
-  },
-  {
-    "día": 129,
-    "lectura": "Día 129: Lectura correspondiente"
-  },
-  {
-    "día": 130,
-    "lectura": "Día 130: Lectura correspondiente"
-  },
-  {
-    "día": 131,
-    "lectura": "Día 131: Lectura correspondiente"
-  },
-  {
-    "día": 132,
-    "lectura": "Día 132: Lectura correspondiente"
-  },
-  {
-    "día": 133,
-    "lectura": "Día 133: Lectura correspondiente"
-  },
-  {
-    "día": 134,
-    "lectura": "Día 134: Lectura correspondiente"
-  },
-  {
-    "día": 135,
-    "lectura": "Día 135: Lectura correspondiente"
-  },
-  {
-    "día": 136,
-    "lectura": "Día 136: Lectura correspondiente"
-  },
-  {
-    "día": 137,
-    "lectura": "Día 137: Lectura correspondiente"
-  },
-  {
-    "día": 138,
-    "lectura": "Día 138: Lectura correspondiente"
-  },
-  {
-    "día": 139,
-    "lectura": "Día 139: Lectura correspondiente"
-  },
-  {
-    "día": 140,
-    "lectura": "Día 140: Lectura correspondiente"
-  },
-  {
-    "día": 141,
-    "lectura": "Día 141: Lectura correspondiente"
-  },
-  {
-    "día": 142,
-    "lectura": "Día 142: Lectura correspondiente"
-  },
-  {
-    "día": 143,
-    "lectura": "Día 143: Lectura correspondiente"
-  },
-  {
-    "día": 144,
-    "lectura": "Día 144: Lectura correspondiente"
-  },
-  {
-    "día": 145,
-    "lectura": "Día 145: Lectura correspondiente"
-  },
-  {
-    "día": 146,
-    "lectura": "Día 146: Lectura correspondiente"
-  },
-  {
-    "día": 147,
-    "lectura": "Día 147: Lectura correspondiente"
-  },
-  {
-    "día": 148,
-    "lectura": "Día 148: Lectura correspondiente"
-  },
-  {
-    "día": 149,
-    "lectura": "Día 149: Lectura correspondiente"
-  },
-  {
-    "día": 150,
-    "lectura": "Día 150: Lectura correspondiente"
-  },
-  {
-    "día": 151,
-    "lectura": "Día 151: Lectura correspondiente"
-  },
-  {
-    "día": 152,
-    "lectura": "Día 152: Lectura correspondiente"
-  },
-  {
-    "día": 153,
-    "lectura": "Día 153: Lectura correspondiente"
-  },
-  {
-    "día": 154,
-    "lectura": "Día 154: Lectura correspondiente"
-  },
-  {
-    "día": 155,
-    "lectura": "Día 155: Lectura correspondiente"
-  },
-  {
-    "día": 156,
-    "lectura": "Día 156: Lectura correspondiente"
-  },
-  {
-    "día": 157,
-    "lectura": "Día 157: Lectura correspondiente"
-  },
-  {
-    "día": 158,
-    "lectura": "Día 158: Lectura correspondiente"
-  },
-  {
-    "día": 159,
-    "lectura": "Día 159: Lectura correspondiente"
-  },
-  {
-    "día": 160,
-    "lectura": "Día 160: Lectura correspondiente"
-  },
-  {
-    "día": 161,
-    "lectura": "Día 161: Lectura correspondiente"
-  },
-  {
-    "día": 162,
-    "lectura": "Día 162: Lectura correspondiente"
-  },
-  {
-    "día": 163,
-    "lectura": "Día 163: Lectura correspondiente"
-  },
-  {
-    "día": 164,
-    "lectura": "Día 164: Lectura correspondiente"
-  },
-  {
-    "día": 165,
-    "lectura": "Día 165: Lectura correspondiente"
-  },
-  {
-    "día": 166,
-    "lectura": "Día 166: Lectura correspondiente"
-  },
-  {
-    "día": 167,
-    "lectura": "Día 167: Lectura correspondiente"
-  },
-  {
-    "día": 168,
-    "lectura": "Día 168: Lectura correspondiente"
-  },
-  {
-    "día": 169,
-    "lectura": "Día 169: Lectura correspondiente"
-  },
-  {
-    "día": 170,
-    "lectura": "Día 170: Lectura correspondiente"
-  },
-  {
-    "día": 171,
-    "lectura": "Día 171: Lectura correspondiente"
-  },
-  {
-    "día": 172,
-    "lectura": "Día 172: Lectura correspondiente"
-  },
-  {
-    "día": 173,
-    "lectura": "Día 173: Lectura correspondiente"
-  },
-  {
-    "día": 174,
-    "lectura": "Día 174: Lectura correspondiente"
-  },
-  {
-    "día": 175,
-    "lectura": "Día 175: Lectura correspondiente"
-  },
-  {
-    "día": 176,
-    "lectura": "Día 176: Lectura correspondiente"
-  },
-  {
-    "día": 177,
-    "lectura": "Día 177: Lectura correspondiente"
-  },
-  {
-    "día": 178,
-    "lectura": "Día 178: Lectura correspondiente"
-  },
-  {
-    "día": 179,
-    "lectura": "Día 179: Lectura correspondiente"
-  },
-  {
-    "día": 180,
-    "lectura": "Día 180: Lectura correspondiente"
-  },
-  {
-    "día": 181,
-    "lectura": "Día 181: Lectura correspondiente"
-  },
-  {
-    "día": 182,
-    "lectura": "Día 182: Lectura correspondiente"
-  },
-  {
-    "día": 183,
-    "lectura": "Día 183: Lectura correspondiente"
-  },
-  {
-    "día": 184,
-    "lectura": "Día 184: Lectura correspondiente"
-  },
-  {
-    "día": 185,
-    "lectura": "Día 185: Lectura correspondiente"
-  },
-  {
-    "día": 186,
-    "lectura": "Día 186: Lectura correspondiente"
-  },
-  {
-    "día": 187,
-    "lectura": "Día 187: Lectura correspondiente"
-  },
-  {
-    "día": 188,
-    "lectura": "Día 188: Lectura correspondiente"
-  },
-  {
-    "día": 189,
-    "lectura": "Día 189: Lectura correspondiente"
-  },
-  {
-    "día": 190,
-    "lectura": "Día 190: Lectura correspondiente"
-  },
-  {
-    "día": 191,
-    "lectura": "Día 191: Lectura correspondiente"
-  },
-  {
-    "día": 192,
-    "lectura": "Día 192: Lectura correspondiente"
-  },
-  {
-    "día": 193,
-    "lectura": "Día 193: Lectura correspondiente"
-  },
-  {
-    "día": 194,
-    "lectura": "Día 194: Lectura correspondiente"
-  },
-  {
-    "día": 195,
-    "lectura": "Día 195: Lectura correspondiente"
-  },
-  {
-    "día": 196,
-    "lectura": "Día 196: Lectura correspondiente"
-  },
-  {
-    "día": 197,
-    "lectura": "Día 197: Lectura correspondiente"
-  },
-  {
-    "día": 198,
-    "lectura": "Día 198: Lectura correspondiente"
-  },
-  {
-    "día": 199,
-    "lectura": "Día 199: Lectura correspondiente"
-  },
-  {
-    "día": 200,
-    "lectura": "Día 200: Lectura correspondiente"
-  },
-  {
-    "día": 201,
-    "lectura": "Día 201: Lectura correspondiente"
-  },
-  {
-    "día": 202,
-    "lectura": "Día 202: Lectura correspondiente"
-  },
-  {
-    "día": 203,
-    "lectura": "Día 203: Lectura correspondiente"
-  },
-  {
-    "día": 204,
-    "lectura": "Día 204: Lectura correspondiente"
-  },
-  {
-    "día": 205,
-    "lectura": "Día 205: Lectura correspondiente"
-  },
-  {
-    "día": 206,
-    "lectura": "Día 206: Lectura correspondiente"
-  },
-  {
-    "día": 207,
-    "lectura": "Día 207: Lectura correspondiente"
-  },
-  {
-    "día": 208,
-    "lectura": "Día 208: Lectura correspondiente"
-  },
-  {
-    "día": 209,
-    "lectura": "Día 209: Lectura correspondiente"
-  },
-  {
-    "día": 210,
-    "lectura": "Día 210: Lectura correspondiente"
-  },
-  {
-    "día": 211,
-    "lectura": "Día 211: Lectura correspondiente"
-  },
-  {
-    "día": 212,
-    "lectura": "Día 212: Lectura correspondiente"
-  },
-  {
-    "día": 213,
-    "lectura": "Día 213: Lectura correspondiente"
-  },
-  {
-    "día": 214,
-    "lectura": "Día 214: Lectura correspondiente"
-  },
-  {
-    "día": 215,
-    "lectura": "Día 215: Lectura correspondiente"
-  },
-  {
-    "día": 216,
-    "lectura": "Día 216: Lectura correspondiente"
-  },
-  {
-    "día": 217,
-    "lectura": "Día 217: Lectura correspondiente"
-  },
-  {
-    "día": 218,
-    "lectura": "Día 218: Lectura correspondiente"
-  },
-  {
-    "día": 219,
-    "lectura": "Día 219: Lectura correspondiente"
-  },
-  {
-    "día": 220,
-    "lectura": "Día 220: Lectura correspondiente"
-  },
-  {
-    "día": 221,
-    "lectura": "Día 221: Lectura correspondiente"
-  },
-  {
-    "día": 222,
-    "lectura": "Día 222: Lectura correspondiente"
-  },
-  {
-    "día": 223,
-    "lectura": "Día 223: Lectura correspondiente"
-  },
-  {
-    "día": 224,
-    "lectura": "Día 224: Lectura correspondiente"
-  },
-  {
-    "día": 225,
-    "lectura": "Día 225: Lectura correspondiente"
-  },
-  {
-    "día": 226,
-    "lectura": "Día 226: Lectura correspondiente"
-  },
-  {
-    "día": 227,
-    "lectura": "Día 227: Lectura correspondiente"
-  },
-  {
-    "día": 228,
-    "lectura": "Día 228: Lectura correspondiente"
-  },
-  {
-    "día": 229,
-    "lectura": "Día 229: Lectura correspondiente"
-  },
-  {
-    "día": 230,
-    "lectura": "Día 230: Lectura correspondiente"
-  },
-  {
-    "día": 231,
-    "lectura": "Día 231: Lectura correspondiente"
-  },
-  {
-    "día": 232,
-    "lectura": "Día 232: Lectura correspondiente"
-  },
-  {
-    "día": 233,
-    "lectura": "Día 233: Lectura correspondiente"
-  },
-  {
-    "día": 234,
-    "lectura": "Día 234: Lectura correspondiente"
-  },
-  {
-    "día": 235,
-    "lectura": "Día 235: Lectura correspondiente"
-  },
-  {
-    "día": 236,
-    "lectura": "Día 236: Lectura correspondiente"
-  },
-  {
-    "día": 237,
-    "lectura": "Día 237: Lectura correspondiente"
-  },
-  {
-    "día": 238,
-    "lectura": "Día 238: Lectura correspondiente"
-  },
-  {
-    "día": 239,
-    "lectura": "Día 239: Lectura correspondiente"
-  },
-  {
-    "día": 240,
-    "lectura": "Día 240: Lectura correspondiente"
-  },
-  {
-    "día": 241,
-    "lectura": "Día 241: Lectura correspondiente"
-  },
-  {
-    "día": 242,
-    "lectura": "Día 242: Lectura correspondiente"
-  },
-  {
-    "día": 243,
-    "lectura": "Día 243: Lectura correspondiente"
-  },
-  {
-    "día": 244,
-    "lectura": "Día 244: Lectura correspondiente"
-  },
-  {
-    "día": 245,
-    "lectura": "Día 245: Lectura correspondiente"
-  },
-  {
-    "día": 246,
-    "lectura": "Día 246: Lectura correspondiente"
-  },
-  {
-    "día": 247,
-    "lectura": "Día 247: Lectura correspondiente"
-  },
-  {
-    "día": 248,
-    "lectura": "Día 248: Lectura correspondiente"
-  },
-  {
-    "día": 249,
-    "lectura": "Día 249: Lectura correspondiente"
-  },
-  {
-    "día": 250,
-    "lectura": "Día 250: Lectura correspondiente"
-  },
-  {
-    "día": 251,
-    "lectura": "Día 251: Lectura correspondiente"
-  },
-  {
-    "día": 252,
-    "lectura": "Día 252: Lectura correspondiente"
-  },
-  {
-    "día": 253,
-    "lectura": "Día 253: Lectura correspondiente"
-  },
-  {
-    "día": 254,
-    "lectura": "Día 254: Lectura correspondiente"
-  },
-  {
-    "día": 255,
-    "lectura": "Día 255: Lectura correspondiente"
-  },
-  {
-    "día": 256,
-    "lectura": "Día 256: Lectura correspondiente"
-  },
-  {
-    "día": 257,
-    "lectura": "Día 257: Lectura correspondiente"
-  },
-  {
-    "día": 258,
-    "lectura": "Día 258: Lectura correspondiente"
-  },
-  {
-    "día": 259,
-    "lectura": "Día 259: Lectura correspondiente"
-  },
-  {
-    "día": 260,
-    "lectura": "Día 260: Lectura correspondiente"
-  },
+    "lectura": "2 Samuel 11–12, 1 Crónicas 20, Salmos 32, 51, 86, 122"
+  },
+  { "día": 115, "lectura": "2 Samuel 13–15" },
+  { "día": 116, "lectura": "2 Samuel 16–18" },
+  { "día": 117, "lectura": "2 Samuel 19–21" },
+  { "día": 118, "lectura": "2 Samuel 22–24, Salmo 5" },
+  { "día": 119, "lectura": "1 Crónicas 21–22, Salmos 30, 50, 117" },
+  { "día": 120, "lectura": "1 Crónicas 23–25" },
+  { "día": 121, "lectura": "1 Crónicas 26–29, Salmos 127, 131" },
+  { "día": 122, "lectura": "1 Reyes 1–2, Salmos 37, 71, 94" },
+  { "día": 123, "lectura": "Salmos 119, 133" },
+  { "día": 124, "lectura": "1 Reyes 3–4, 2 Crónicas 1, Salmos 72, 144" },
+  { "día": 125, "lectura": "Proverbios 1–3" },
+  { "día": 126, "lectura": "Proverbios 4–6" },
+  { "día": 127, "lectura": "Proverbios 7–9" },
+  { "día": 128, "lectura": "Proverbios 10–12" },
+  { "día": 129, "lectura": "Proverbios 13–15" },
+  { "día": 130, "lectura": "Proverbios 16–18" },
+  { "día": 131, "lectura": "Proverbios 19–21" },
+  { "día": 132, "lectura": "Proverbios 22–24" },
+  { "día": 133, "lectura": "1 Reyes 5–6, 2 Crónicas 2–3" },
+  { "día": 134, "lectura": "1 Reyes 7, 2 Crónicas 4" },
+  { "día": 135, "lectura": "1 Reyes 8, 2 Crónicas 5–7, Salmo 136" },
+  { "día": 136, "lectura": "2 Crónicas 8, 1 Reyes 9, Proverbios 25–26" },
+  { "día": 137, "lectura": "Proverbios 27–29" },
+  { "día": 138, "lectura": "Eclesiastés 1–6" },
+  { "día": 139, "lectura": "Eclesiastés 7–12" },
+  { "día": 140, "lectura": "1 Reyes 10–11, 2 Crónicas 9" },
+  { "día": 141, "lectura": "Cantar de los Cantares 1–8" },
+  { "día": 142, "lectura": "1 Reyes 12–14, 2 Crónicas 10–12" },
+  { "día": 143, "lectura": "2 Crónicas 13–16, 1 Reyes 15:1–24" },
+  { "día": 144, "lectura": "1 Reyes 15:25–34, 1 Reyes 16, 2 Crónicas 17" },
+  { "día": 145, "lectura": "1 Reyes 17–19" },
+  { "día": 146, "lectura": "1 Reyes 20–21" },
+  { "día": 147, "lectura": "1 Reyes 22, 2 Crónicas 18–20" },
+  { "día": 148, "lectura": "2 Reyes 1–3" },
+  { "día": 149, "lectura": "2 Reyes 4–5" },
+  { "día": 150, "lectura": "2 Reyes 6–8" },
+  { "día": 151, "lectura": "2 Reyes 9–11" },
+  { "día": 152, "lectura": "2 Reyes 12, 2 Crónicas 24" },
+  { "día": 153, "lectura": "2 Reyes 13–14, 2 Crónicas 25" },
+  { "día": 154, "lectura": "Jonás 1–4" },
+  { "día": 155, "lectura": "Amós 1–5" },
+  { "día": 156, "lectura": "Amós 6–9" },
+  { "día": 157, "lectura": "2 Crónicas 26, 2 Reyes 15" },
+  { "día": 158, "lectura": "Isaías 1–4" },
+  { "día": 159, "lectura": "Isaías 5–8" },
+  { "día": 160, "lectura": "Isaías 9–12" },
+  { "día": 161, "lectura": "2 Reyes 16–17, Oseas 1–3" },
+  { "día": 162, "lectura": "Oseas 4–10" },
+  { "día": 163, "lectura": "Oseas 11–14, Isaías 13–17" },
+  { "día": 164, "lectura": "Isaías 18–22" },
+  { "día": 165, "lectura": "Isaías 23–27" },
+  { "día": 166, "lectura": "2 Reyes 18:1–8, 2 Crónicas 29–31, Salmo 48" },
+  { "día": 167, "lectura": "Proverbios 30–31" },
+  { "día": 168, "lectura": "Isaías 28–30" },
+  { "día": 169, "lectura": "Isaías 31–34" },
+  { "día": 170, "lectura": "Isaías 35–36" },
+  { "día": 171, "lectura": "Isaías 37–39, Salmo 76" },
+  { "día": 172, "lectura": "2 Reyes 18:9–19:37, 2 Crónicas 32" },
+  { "día": 173, "lectura": "Isaías 40–43" },
+  { "día": 174, "lectura": "Isaías 44–48" },
+  { "día": 175, "lectura": "Isaías 49–53" },
+  { "día": 176, "lectura": "Isaías 54–58" },
+  { "día": 177, "lectura": "Isaías 59–63" },
+  { "día": 178, "lectura": "Isaías 64–66" },
+  { "día": 179, "lectura": "2 Reyes 20–21, 2 Crónicas 33" },
+  { "día": 180, "lectura": "Nahúm 1–3" },
+  { "día": 181, "lectura": "2 Reyes 22, 2 Crónicas 34" },
+  { "día": 182, "lectura": "2 Reyes 23, 2 Crónicas 35" },
+  { "día": 183, "lectura": "Habacuc 1–3" },
+  { "día": 184, "lectura": "Sofonías 1–3" },
+  { "día": 185, "lectura": "Jeremías 1–3" },
+  { "día": 186, "lectura": "Jeremías 4–6" },
+  { "día": 187, "lectura": "Jeremías 7–9" },
+  { "día": 188, "lectura": "Jeremías 10–13" },
+  { "día": 189, "lectura": "Jeremías 14–17" },
+  { "día": 190, "lectura": "Jeremías 18–22" },
+  { "día": 191, "lectura": "Jeremías 23–25" },
+  { "día": 192, "lectura": "Jeremías 26–29" },
+  { "día": 193, "lectura": "Jeremías 30–31" },
+  { "día": 194, "lectura": "Jeremías 32–34" },
+  { "día": 195, "lectura": "Jeremías 35–37" },
+  { "día": 196, "lectura": "Jeremías 38–40, Salmos 74, 79" },
+  { "día": 197, "lectura": "2 Reyes 24–25, 2 Crónicas 36" },
+  { "día": 198, "lectura": "Jeremías 41–45" },
+  { "día": 199, "lectura": "Obadías 1, Jeremías 46–48" },
+  { "día": 200, "lectura": "Jeremías 49–50" },
+  { "día": 201, "lectura": "Jeremías 51–52" },
+  { "día": 202, "lectura": "Lamentaciones 1–2" },
+  { "día": 203, "lectura": "Lamentaciones 3–5" },
+  { "día": 204, "lectura": "Ezequiel 1–4" },
+  { "día": 205, "lectura": "Ezequiel 5–8" },
+  { "día": 206, "lectura": "Ezequiel 9–12" },
+  { "día": 207, "lectura": "Ezequiel 13–15" },
+  { "día": 208, "lectura": "Ezequiel 16–17" },
+  { "día": 209, "lectura": "Ezequiel 18–19" },
+  { "día": 210, "lectura": "Ezequiel 20–21" },
+  { "día": 211, "lectura": "Ezequiel 22–23" },
+  { "día": 212, "lectura": "Ezequiel 24–27" },
+  { "día": 213, "lectura": "Ezequiel 28–30" },
+  { "día": 214, "lectura": "Ezequiel 31–33" },
+  { "día": 215, "lectura": "Ezequiel 34–36" },
+  { "día": 216, "lectura": "Ezequiel 37–39" },
+  { "día": 217, "lectura": "Ezequiel 40–41" },
+  { "día": 218, "lectura": "Ezequiel 42–43" },
+  { "día": 219, "lectura": "Ezequiel 44–45" },
+  { "día": 220, "lectura": "Ezequiel 46–48" },
+  { "día": 221, "lectura": "Daniel 1–3" },
+  { "día": 222, "lectura": "Daniel 4–6" },
+  { "día": 223, "lectura": "Daniel 7–9" },
+  { "día": 224, "lectura": "Daniel 10–12" },
+  { "día": 225, "lectura": "Esdras 1–2" },
+  { "día": 226, "lectura": "Esdras 3–5" },
+  { "día": 227, "lectura": "Hageo 1–2, Zacarías 1–3" },
+  { "día": 228, "lectura": "Zacarías 4–6" },
+  { "día": 229, "lectura": "Zacarías 7–10" },
+  { "día": 230, "lectura": "Zacarías 11–14" },
+  { "día": 231, "lectura": "Ester 1–5" },
+  { "día": 232, "lectura": "Ester 6–10" },
+  { "día": 233, "lectura": "Esdras 6–10" },
+  { "día": 234, "lectura": "Nehemías 1–3" },
+  { "día": 235, "lectura": "Nehemías 4–6" },
+  { "día": 236, "lectura": "Nehemías 7–9" },
+  { "día": 237, "lectura": "Nehemías 10–13, Salmo 126" },
+  { "día": 238, "lectura": "Malaquías 1–4" },
+  { "día": 239, "lectura": "Salmos 107, 111–118" },
+  { "día": 240, "lectura": "Salmos 120–135" },
+  { "día": 241, "lectura": "Salmos 146–150" },
+  { "día": 242, "lectura": "Salmos 73, 75, 78, 83, 87–88" },
+  { "día": 243, "lectura": "Salmos 89, 91–93, 95, 97–100" },
+  { "día": 244, "lectura": "Salmos 102–106" },
+  { "día": 245, "lectura": "1 Crónicas 1–2" },
+  { "día": 246, "lectura": "1 Crónicas 3–5" },
+  { "día": 247, "lectura": "1 Crónicas 6" },
+  { "día": 248, "lectura": "1 Crónicas 7–9" },
+  { "día": 249, "lectura": "Mateo 1, Lucas 1" },
+  { "día": 250, "lectura": "Mateo 2, Lucas 2" },
+  { "día": 251, "lectura": "Mateo 3, Marcos 1, Lucas 3" },
+  { "día": 252, "lectura": "Mateo 4, Lucas 4–5, Juan 1:15–51" },
+  { "día": 253, "lectura": "Juan 2–4" },
+  { "día": 254, "lectura": "Mateo 5–7" },
+  { "día": 255, "lectura": "Mateo 8:1–13, Lucas 7" },
+  { "día": 256, "lectura": "Mateo 11, Lucas 11" },
+  { "día": 257, "lectura": "Mateo 12:22–50, Marcos 3:20–35, Lucas 8:1–21" },
+  { "día": 258, "lectura": "Mateo 13, Lucas 8:22–25, Marcos 4:35–41" },
+  { "día": 259, "lectura": "Mateo 8:28–34, Marcos 5:1–20, Lucas 8:26–39" },
+  { "día": 260, "lectura": "Mateo 9:18–34, Marcos 5:21–43, Lucas 8:40–56" },
   {
     "día": 261,
-    "lectura": "Día 261: Lectura correspondiente"
+    "lectura": "Mateo 9:35–38, Mateo 10, Marcos 6:7–13, Lucas 9:1–6"
   },
   {
     "día": 262,
-    "lectura": "Día 262: Lectura correspondiente"
+    "lectura": "Mateo 14:1–21, Marcos 6:14–44, Lucas 9:7–17, Juan 6:1–15"
   },
-  {
-    "día": 263,
-    "lectura": "Día 263: Lectura correspondiente"
-  },
-  {
-    "día": 264,
-    "lectura": "Día 264: Lectura correspondiente"
-  },
-  {
-    "día": 265,
-    "lectura": "Día 265: Lectura correspondiente"
-  },
-  {
-    "día": 266,
-    "lectura": "Día 266: Lectura correspondiente"
-  },
-  {
-    "día": 267,
-    "lectura": "Día 267: Lectura correspondiente"
-  },
-  {
-    "día": 268,
-    "lectura": "Día 268: Lectura correspondiente"
-  },
-  {
-    "día": 269,
-    "lectura": "Día 269: Lectura correspondiente"
-  },
-  {
-    "día": 270,
-    "lectura": "Día 270: Lectura correspondiente"
-  },
-  {
-    "día": 271,
-    "lectura": "Día 271: Lectura correspondiente"
-  },
-  {
-    "día": 272,
-    "lectura": "Día 272: Lectura correspondiente"
-  },
-  {
-    "día": 273,
-    "lectura": "Día 273: Lectura correspondiente"
-  },
-  {
-    "día": 274,
-    "lectura": "Día 274: Lectura correspondiente"
-  },
-  {
-    "día": 275,
-    "lectura": "Día 275: Lectura correspondiente"
-  },
-  {
-    "día": 276,
-    "lectura": "Día 276: Lectura correspondiente"
-  },
-  {
-    "día": 277,
-    "lectura": "Día 277: Lectura correspondiente"
-  },
-  {
-    "día": 278,
-    "lectura": "Día 278: Lectura correspondiente"
-  },
-  {
-    "día": 279,
-    "lectura": "Día 279: Lectura correspondiente"
-  },
-  {
-    "día": 280,
-    "lectura": "Día 280: Lectura correspondiente"
-  },
-  {
-    "día": 281,
-    "lectura": "Día 281: Lectura correspondiente"
-  },
+  { "día": 263, "lectura": "Mateo 14:22–36, Marcos 6:45–56, Juan 6:16–24" },
+  { "día": 264, "lectura": "Juan 6:25–71" },
+  { "día": 265, "lectura": "Mateo 15:1–20, Marcos 7:1–23" },
+  { "día": 266, "lectura": "Mateo 15:21–39, Marcos 7:24–37, Marcos 8:1–10" },
+  { "día": 267, "lectura": "Mateo 16:1–12, Marcos 8:11–26" },
+  { "día": 268, "lectura": "Mateo 16:13–28, Marcos 8:27–38, Lucas 9:18–27" },
+  { "día": 269, "lectura": "Mateo 17:1–13, Marcos 9:2–13, Lucas 9:28–36" },
+  { "día": 270, "lectura": "Mateo 17:14–27, Marcos 9:14–32, Lucas 9:37–62" },
+  { "día": 271, "lectura": "Mateo 18, Marcos 9:33–50, Lucas 9:46–50" },
+  { "día": 272, "lectura": "Juan 7–8" },
+  { "día": 273, "lectura": "Juan 9:1–10:21" },
+  { "día": 274, "lectura": "Lucas 10–11, Juan 10:22–42" },
+  { "día": 275, "lectura": "Lucas 12–13" },
+  { "día": 276, "lectura": "Lucas 14–15" },
+  { "día": 277, "lectura": "Lucas 16–17" },
+  { "día": 278, "lectura": "Juan 11" },
+  { "día": 279, "lectura": "Lucas 18:1–30, Mateo 19, Marcos 10:1–31" },
+  { "día": 280, "lectura": "Mateo 20:1–34, Marcos 10:32–52, Lucas 18:31–43" },
+  { "día": 281, "lectura": "Lucas 19:1–28" },
   {
     "día": 282,
-    "lectura": "Día 282: Lectura correspondiente"
+    "lectura": "Mateo 21:1–22, Marcos 11:1–26, Lucas 19:29–48, Juan 12:1–26"
   },
   {
     "día": 283,
-    "lectura": "Día 283: Lectura correspondiente"
+    "lectura": "Juan 12:27–50, Mateo 21:23–46, Marcos 11:27–33, Marcos 12:1–44, Lucas 20"
   },
-  {
-    "día": 284,
-    "lectura": "Día 284: Lectura correspondiente"
-  },
-  {
-    "día": 285,
-    "lectura": "Día 285: Lectura correspondiente"
-  },
+  { "día": 284, "lectura": "Mateo 22, Lucas 21, Mateo 23, Marcos 13" },
+  { "día": 285, "lectura": "Mateo 24–25" },
   {
     "día": 286,
-    "lectura": "Día 286: Lectura correspondiente"
+    "lectura": "Mateo 26:1–35, Marcos 14:1–31, Lucas 22:1–38, Juan 13"
   },
-  {
-    "día": 287,
-    "lectura": "Día 287: Lectura correspondiente"
-  },
+  { "día": 287, "lectura": "Juan 14–17" },
   {
     "día": 288,
-    "lectura": "Día 288: Lectura correspondiente"
+    "lectura": "Mateo 26:36–75, Marcos 14:32–72, Lucas 22:39–71, Juan 18:1–27"
   },
   {
     "día": 289,
-    "lectura": "Día 289: Lectura correspondiente"
+    "lectura": "Mateo 27, Marcos 15, Lucas 23, Juan 18:28–40, Juan 19:1–37"
   },
-  {
-    "día": 290,
-    "lectura": "Día 290: Lectura correspondiente"
-  },
-  {
-    "día": 291,
-    "lectura": "Día 291: Lectura correspondiente"
-  },
-  {
-    "día": 292,
-    "lectura": "Día 292: Lectura correspondiente"
-  },
-  {
-    "día": 293,
-    "lectura": "Día 293: Lectura correspondiente"
-  },
-  {
-    "día": 294,
-    "lectura": "Día 294: Lectura correspondiente"
-  },
-  {
-    "día": 295,
-    "lectura": "Día 295: Lectura correspondiente"
-  },
-  {
-    "día": 296,
-    "lectura": "Día 296: Lectura correspondiente"
-  },
-  {
-    "día": 297,
-    "lectura": "Día 297: Lectura correspondiente"
-  },
-  {
-    "día": 298,
-    "lectura": "Día 298: Lectura correspondiente"
-  },
-  {
-    "día": 299,
-    "lectura": "Día 299: Lectura correspondiente"
-  },
-  {
-    "día": 300,
-    "lectura": "Día 300: Lectura correspondiente"
-  },
-  {
-    "día": 301,
-    "lectura": "Día 301: Lectura correspondiente"
-  },
-  {
-    "día": 302,
-    "lectura": "Día 302: Lectura correspondiente"
-  },
-  {
-    "día": 303,
-    "lectura": "Día 303: Lectura correspondiente"
-  },
-  {
-    "día": 304,
-    "lectura": "Día 304: Lectura correspondiente"
-  },
-  {
-    "día": 305,
-    "lectura": "Día 305: Lectura correspondiente"
-  },
-  {
-    "día": 306,
-    "lectura": "Día 306: Lectura correspondiente"
-  },
-  {
-    "día": 307,
-    "lectura": "Día 307: Lectura correspondiente"
-  },
-  {
-    "día": 308,
-    "lectura": "Día 308: Lectura correspondiente"
-  },
-  {
-    "día": 309,
-    "lectura": "Día 309: Lectura correspondiente"
-  },
-  {
-    "día": 310,
-    "lectura": "Día 310: Lectura correspondiente"
-  },
-  {
-    "día": 311,
-    "lectura": "Día 311: Lectura correspondiente"
-  },
-  {
-    "día": 312,
-    "lectura": "Día 312: Lectura correspondiente"
-  },
-  {
-    "día": 313,
-    "lectura": "Día 313: Lectura correspondiente"
-  },
-  {
-    "día": 314,
-    "lectura": "Día 314: Lectura correspondiente"
-  },
-  {
-    "día": 315,
-    "lectura": "Día 315: Lectura correspondiente"
-  },
-  {
-    "día": 316,
-    "lectura": "Día 316: Lectura correspondiente"
-  },
-  {
-    "día": 317,
-    "lectura": "Día 317: Lectura correspondiente"
-  },
-  {
-    "día": 318,
-    "lectura": "Día 318: Lectura correspondiente"
-  },
-  {
-    "día": 319,
-    "lectura": "Día 319: Lectura correspondiente"
-  },
-  {
-    "día": 320,
-    "lectura": "Día 320: Lectura correspondiente"
-  },
-  {
-    "día": 321,
-    "lectura": "Día 321: Lectura correspondiente"
-  },
-  {
-    "día": 322,
-    "lectura": "Día 322: Lectura correspondiente"
-  },
-  {
-    "día": 323,
-    "lectura": "Día 323: Lectura correspondiente"
-  },
-  {
-    "día": 324,
-    "lectura": "Día 324: Lectura correspondiente"
-  },
-  {
-    "día": 325,
-    "lectura": "Día 325: Lectura correspondiente"
-  },
-  {
-    "día": 326,
-    "lectura": "Día 326: Lectura correspondiente"
-  },
-  {
-    "día": 327,
-    "lectura": "Día 327: Lectura correspondiente"
-  },
-  {
-    "día": 328,
-    "lectura": "Día 328: Lectura correspondiente"
-  },
-  {
-    "día": 329,
-    "lectura": "Día 329: Lectura correspondiente"
-  },
-  {
-    "día": 330,
-    "lectura": "Día 330: Lectura correspondiente"
-  },
-  {
-    "día": 331,
-    "lectura": "Día 331: Lectura correspondiente"
-  },
-  {
-    "día": 332,
-    "lectura": "Día 332: Lectura correspondiente"
-  },
-  {
-    "día": 333,
-    "lectura": "Día 333: Lectura correspondiente"
-  },
-  {
-    "día": 334,
-    "lectura": "Día 334: Lectura correspondiente"
-  },
-  {
-    "día": 335,
-    "lectura": "Día 335: Lectura correspondiente"
-  },
-  {
-    "día": 336,
-    "lectura": "Día 336: Lectura correspondiente"
-  },
-  {
-    "día": 337,
-    "lectura": "Día 337: Lectura correspondiente"
-  },
-  {
-    "día": 338,
-    "lectura": "Día 338: Lectura correspondiente"
-  },
-  {
-    "día": 339,
-    "lectura": "Día 339: Lectura correspondiente"
-  },
-  {
-    "día": 340,
-    "lectura": "Día 340: Lectura correspondiente"
-  }
+  { "día": 290, "lectura": "Mateo 28, Marcos 16, Lucas 24, Juan 20–21" },
+  { "día": 291, "lectura": "Hechos 1–3" },
+  { "día": 292, "lectura": "Hechos 4–6" },
+  { "día": 293, "lectura": "Hechos 7–8" },
+  { "día": 294, "lectura": "Hechos 9–10" },
+  { "día": 295, "lectura": "Hechos 11–12" },
+  { "día": 296, "lectura": "Hechos 13–14" },
+  { "día": 297, "lectura": "Santiago 1–5" },
+  { "día": 298, "lectura": "Hechos 15, Gálatas 1–2" },
+  { "día": 299, "lectura": "Gálatas 3–6" },
+  { "día": 300, "lectura": "Hechos 16–18" },
+  { "día": 301, "lectura": "1 Tesalonicenses 1–5, 2 Tesalonicenses 1–3" },
+  { "día": 302, "lectura": "Hechos 19" },
+  { "día": 303, "lectura": "1 Corintios 1–4" },
+  { "día": 304, "lectura": "1 Corintios 5–8" },
+  { "día": 305, "lectura": "1 Corintios 9–11" },
+  { "día": 306, "lectura": "1 Corintios 12–14" },
+  { "día": 307, "lectura": "1 Corintios 15–16" },
+  { "día": 308, "lectura": "2 Corintios 1–4" },
+  { "día": 309, "lectura": "2 Corintios 5–9" },
+  { "día": 310, "lectura": "2 Corintios 10–13" },
+  { "día": 311, "lectura": "Hechos 20–23" },
+  { "día": 312, "lectura": "Romanos 1–3" },
+  { "día": 313, "lectura": "Romanos 4–7" },
+  { "día": 314, "lectura": "Romanos 8–10" },
+  { "día": 315, "lectura": "Romanos 11–13" },
+  { "día": 316, "lectura": "Romanos 14–16" },
+  { "día": 317, "lectura": "Hechos 24–26" },
+  { "día": 318, "lectura": "Hechos 27–28" },
+  { "día": 319, "lectura": "Colosenses 1–4, Filemón 1" },
+  { "día": 320, "lectura": "Efesios 1–6" },
+  { "día": 321, "lectura": "Filipenses 1–4" },
+  { "día": 322, "lectura": "1 Timoteo 1–6" },
+  { "día": 323, "lectura": "Tito 1–3" },
+  { "día": 324, "lectura": "2 Timoteo 1–4" },
+  { "día": 325, "lectura": "Hebreos 1–4" },
+  { "día": 326, "lectura": "Hebreos 5–7" },
+  { "día": 327, "lectura": "Hebreos 8–10" },
+  { "día": 328, "lectura": "Hebreos 11–13" },
+  { "día": 329, "lectura": "1 Pedro 1–5" },
+  { "día": 330, "lectura": "2 Pedro 1–3" },
+  { "día": 331, "lectura": "Judas 1, 1 Juan 1–5" },
+  { "día": 332, "lectura": "2 Juan 1, 3 Juan 1" },
+  { "día": 333, "lectura": "Apocalipsis 1–3" },
+  { "día": 334, "lectura": "Apocalipsis 4–8" },
+  { "día": 335, "lectura": "Apocalipsis 9–12" },
+  { "día": 336, "lectura": "Apocalipsis 13–16" },
+  { "día": 337, "lectura": "Apocalipsis 17–19" },
+  { "día": 338, "lectura": "Apocalipsis 20–22" },
+  { "día": 339, "lectura": "Resumen personal y reflexión final" },
+  { "día": 340, "lectura": "Día libre o repaso" }
 ]
